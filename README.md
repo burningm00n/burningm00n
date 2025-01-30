@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @burningm00n
 - 👀 I’m interested in basketball, coding, chess, reading, design.
-- 🌱 I’m currently learning to develop myself, python, frontend technologies.
+- 🌱 I’m currently learning to develop myself, python, ui/ux design, frontend technologies.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
